@@ -3,8 +3,8 @@
     "static/js/0.c5d90d49.chunk.js": "/static/js/0.c5d90d49.chunk.js",
     "static/js/0.c5d90d49.chunk.js.map": "/static/js/0.c5d90d49.chunk.js.map",
     "main.css": "/static/css/main.c45a5a30.chunk.css",
-    "main.js": "/static/js/main.ea10a5e4.chunk.js",
-    "main.js.map": "/static/js/main.ea10a5e4.chunk.js.map",
+    "main.js": "/static/js/main.ac330527.chunk.js",
+    "main.js.map": "/static/js/main.ac330527.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.52b587df.js",
     "runtime-main.js.map": "/static/js/runtime-main.52b587df.js.map",
     "static/css/3.f78674c2.chunk.css": "/static/css/3.f78674c2.chunk.css",
@@ -38,11 +38,9 @@
     "static/media/bpo.df6cbe5b.svg": "/static/media/bpo.df6cbe5b.svg",
     "static/media/cloud.c03b8cc8.svg": "/static/media/cloud.c03b8cc8.svg",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/getintouch.e199de65.jpg": "/static/media/getintouch.e199de65.jpg",
     "static/media/hide-password.2aaf769d.svg": "/static/media/hide-password.2aaf769d.svg",
     "static/media/show-password.7468b270.svg": "/static/media/show-password.7468b270.svg",
     "static/media/software.cd4da263.svg": "/static/media/software.cd4da263.svg",
-    "static/media/usa.eeee3ad6.jpg": "/static/media/usa.eeee3ad6.jpg",
     "static/media/web.f149f6e9.svg": "/static/media/web.f149f6e9.svg"
   },
   "entrypoints": [
@@ -50,6 +48,6 @@
     "static/css/3.f78674c2.chunk.css",
     "static/js/3.22e92da3.chunk.js",
     "static/css/main.c45a5a30.chunk.css",
-    "static/js/main.ea10a5e4.chunk.js"
+    "static/js/main.ac330527.chunk.js"
   ]
 }
